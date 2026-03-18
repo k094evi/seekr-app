@@ -87,10 +87,10 @@ This project was created to solve the common problem of lost items in school env
 ## 👤 Author
 
 Levine Kiana A. Centeno
-Juancho Emmanuel I. Hernandez
-Ace M. Medina
-Rhaiza Nicole C. Narciso
-Harry Lexner B. Uy
+,Juancho Emmanuel I. Hernandez
+,Ace M. Medina
+,Rhaiza Nicole C. Narciso
+,Harry Lexner B. Uy
 
 ---
 
