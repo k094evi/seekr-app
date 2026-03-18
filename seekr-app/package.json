@@ -1,0 +1,22 @@
+{
+  "name": "seekr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "recharts": "^3.3.0",
+    "tailwindcss": "^4.1.14"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
