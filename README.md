@@ -28,7 +28,7 @@ A web-based **Lost and Found System** designed for schools to help students and 
 seekr-app/
 ├── frontend/     # React application
 ├── backend/      # PHP API / server
-├── database/     # SQL files (if any)
+├── database/     # SQL files
 └── README.md
 ```
 
@@ -80,16 +80,17 @@ This project was created to solve the common problem of lost items in school env
 
 ## 📌 Future Improvements
 
-* User authentication (login/signup)
 * Notifications system
-* Image upload for items
-* Admin dashboard
 
 ---
 
 ## 👤 Author
 
-Your Name Here
+Levine Kiana A. Centeno
+Juancho Emmanuel I. Hernandez
+Ace M. Medina
+Rhaiza Nicole C. Narciso
+Harry Lexner B. Uy
 
 ---
 
